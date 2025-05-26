@@ -109,7 +109,7 @@ export const BookmarkCard: React.FC<BookmarkCardProps> = ({ bookmark, onDelete, 
             {formatDate(bookmark.createdAt)}
           </div>
           {/* <span className="text-gray-300">•</span> */}
-          {!bookmark?.Summary && <span onClick={() => summaryClick(bookmark.id)} className=' cursor-pointer'>AI Summary</span>}
+          {!bookmark?.Summary && <span onClick={() => summaryClick(bookmark.id)} className=' cursor-pointer'>Generate AI Summary</span>}
         </div>
       </div>
     </div>
