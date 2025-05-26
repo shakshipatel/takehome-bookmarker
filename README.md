@@ -112,7 +112,7 @@ cd takehome-bookmarker
 
 ### 🖼️ **Screenshots**
 
-1. ![Check main image](main.png)
+![Check main image](main.png)
 
 ---
 
