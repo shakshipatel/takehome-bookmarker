@@ -112,9 +112,7 @@ cd takehome-bookmarker
 
 ### 🖼️ **Screenshots**
 
-1. ![Signup](screenshots/signup.png)
-2. ![Save Bookmark](screenshots/save_bookmark.png)
-3. ![Bookmark List](screenshots/bookmark_list.png)
+1. ![Check main image](main.png)
 
 ---
 
