@@ -73,6 +73,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:8080",
+      "https://takehome-bookmarker.vercel.app"
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   })
