@@ -1,5 +1,7 @@
 # 🌐 **Link Saver + Auto-Summary**
 
+![Check main image](main.png)
+
 A full-stack web application that lets users save bookmarks with auto-generated summaries. Secure login, responsive UI, and seamless integration with Jina AI summarization.
 
 ---
@@ -107,12 +109,6 @@ cd takehome-bookmarker
 ### 🌍 **Live Demo**
 
 🔗 [Live App URL (Vercel)](https://takehome-bookmarker.vercel.app)
-
----
-
-### 🖼️ **Screenshots**
-
-![Check main image](main.png)
 
 ---
 
